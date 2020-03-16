@@ -1,0 +1,1240 @@
+{
+  "BSP.Middleware.BL.dll": {
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.BL\\Implementation\\SiteManager.cs": {
+      "BSP.Middleware.BL.SiteManager": {
+        "System.Collections.Generic.List`1<BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse> BSP.Middleware.BL.SiteManager::ConvertBSPSiteToMiddlewareSite(BSP.Middleware.Models.BSPModels.Response.BSPSiteResponse)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0
+          },
+          "Branches": [
+            {
+              "Line": 27,
+              "Offset": 295,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 157,
+              "EndOffset": 89,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 157,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 182,
+              "EndOffset": 184,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 182,
+              "EndOffset": 188,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 208,
+              "EndOffset": 210,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 208,
+              "EndOffset": 214,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 234,
+              "EndOffset": 236,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 234,
+              "EndOffset": 240,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 260,
+              "EndOffset": 262,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 260,
+              "EndOffset": 266,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 295,
+              "EndOffset": 300,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void BSP.Middleware.BL.SiteManager::.ctor(BSP.Middleware.Services.ISiteService)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.BL.SiteManager/<NearbySitesSearchAsAOOAsync>d__2": {
+        "System.Void BSP.Middleware.BL.SiteManager/<NearbySitesSearchAsAOOAsync>d__2::MoveNext()": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "BSP.Middleware.dll": {
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware\\AppConfig.cs": {
+      "BSP.Middleware.AppConfig": {
+        "System.String BSP.Middleware.AppConfig::get_Version()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware\\Program.cs": {
+      "BSP.Middleware.Program": {
+        "System.Void BSP.Middleware.Program::Main(System.String[])": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Hosting.IWebHostBuilder BSP.Middleware.Program::CreateWebHostBuilder(System.String[])": {
+          "Lines": {
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware\\Startup.cs": {
+      "BSP.Middleware.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration BSP.Middleware.Startup::get_Configuration()": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.Void BSP.Middleware.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "30": 1,
+            "31": 1,
+            "32": 1,
+            "36": 1,
+            "37": 2,
+            "38": 2,
+            "39": 2,
+            "42": 1
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 23,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 36,
+              "Offset": 23,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void BSP.Middleware.Startup::ConfigureManagers(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": []
+        },
+        "System.Void BSP.Middleware.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+          "Lines": {
+            "52": 1,
+            "55": 1,
+            "59": 1,
+            "60": 2,
+            "61": 2,
+            "62": 2,
+            "65": 1,
+            "66": 1,
+            "67": 1,
+            "68": 1,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "74": 1,
+            "75": 1,
+            "76": 1
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 59,
+              "Offset": 16,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 65,
+              "Offset": 55,
+              "EndOffset": 57,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 65,
+              "Offset": 55,
+              "EndOffset": 68,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void BSP.Middleware.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "21": 1,
+            "22": 1,
+            "23": 1,
+            "24": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware\\Controllers\\SitesController.cs": {
+      "BSP.Middleware.Controllers.SitesController": {
+        "System.Void BSP.Middleware.Controllers.SitesController::.ctor(BSP.Middleware.BL.ISiteManager)": {
+          "Lines": {
+            "17": 2,
+            "18": 2,
+            "19": 2,
+            "20": 2
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Controllers.SitesController/<NearbySitesByGeolocation>d__2": {
+        "System.Void BSP.Middleware.Controllers.SitesController/<NearbySitesByGeolocation>d__2::MoveNext()": {
+          "Lines": {
+            "25": 2,
+            "26": 2,
+            "28": 2,
+            "30": 2,
+            "31": 1,
+            "33": 1,
+            "34": 2
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 191,
+              "EndOffset": 193,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 30,
+              "Offset": 191,
+              "EndOffset": 212,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "BSP.Middleware.Models.dll": {
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\InLocationDistanceDTO.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.InLocationDistanceDTO": {
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.InLocationDistanceDTO::get_FromLatitude()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.InLocationDistanceDTO::get_FromLongitude()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.InLocationDistanceDTO::get_ToLatitude()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.InLocationDistanceDTO::get_ToLongitude()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\NearbySiteDTO.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.NearbySiteDTO": {
+        "BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse BSP.Middleware.Models.MiddlewareModels.Response.NearbySiteDTO::get_Site()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\NearbysiteGeoDTO.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesGeoDTO": {
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesGeoDTO::get_Latitude()": {
+          "Lines": {
+            "9": 6
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesGeoDTO::get_Longitude()": {
+          "Lines": {
+            "11": 6
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.MiddlewareModels.Response.SiteSupportedOrderModes BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesGeoDTO::get_OrderMode()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\NearbysitesSearchDTO.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesSearchDTO": {
+        "System.Nullable`1<System.Double> BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesSearchDTO::get_UserLatitude()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Double> BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesSearchDTO::get_UserLongitude()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesSearchDTO::get_SearchTerm()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesSearchDTO::set_SearchTerm(System.String)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "28": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 2,
+              "EndOffset": 12,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 15,
+              "EndOffset": 19,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 15,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            }
+          ]
+        },
+        "BSP.Middleware.Models.MiddlewareModels.Response.SiteSupportedOrderModes BSP.Middleware.Models.MiddlewareModels.Response.NearbySitesSearchDTO::get_OrderMode()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\OutLocationDistanceDTO.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.OutLocationDistanceDTO": {
+        "BSP.Middleware.Models.Enums.DistanceUnit BSP.Middleware.Models.MiddlewareModels.Response.OutLocationDistanceDTO::get_DistanceUnit()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.OutLocationDistanceDTO::get_Distance()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\SearchOpenSitesDTO.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.SearchOpenSitesDTO": {
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SearchOpenSitesDTO::get_SearchTerm()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.MiddlewareModels.Response.SiteSupportedOrderModes BSP.Middleware.Models.MiddlewareModels.Response.SearchOpenSitesDTO::get_OrderMode()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\SiteHoursDTO.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.SiteHoursDTO": {
+        "System.DayOfWeek BSP.Middleware.Models.MiddlewareModels.Response.SiteHoursDTO::get_DayOfWeek()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteHoursDTO::get_OpeningTime()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Void BSP.Middleware.Models.MiddlewareModels.Response.SiteHoursDTO::set_OpeningTime(System.String)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteHoursDTO::get_ClosingTime()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.Void BSP.Middleware.Models.MiddlewareModels.Response.SiteHoursDTO::set_ClosingTime(System.String)": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean BSP.Middleware.Models.MiddlewareModels.Response.SiteHoursDTO::get_IsClosed()": {
+          "Lines": {
+            "35": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\SiteResponse.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse": {
+        "System.Int32 BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_SiteId()": {
+          "Lines": {
+            "10": 3
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_ExternalId()": {
+          "Lines": {
+            "11": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_EnterpriseUnitId()": {
+          "Lines": {
+            "12": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_SiteName()": {
+          "Lines": {
+            "13": 4
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_Description()": {
+          "Lines": {
+            "15": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_AddressLine1()": {
+          "Lines": {
+            "16": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_AddressLine2()": {
+          "Lines": {
+            "17": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_City()": {
+          "Lines": {
+            "18": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_State()": {
+          "Lines": {
+            "19": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_Postal()": {
+          "Lines": {
+            "20": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_VoicePhone()": {
+          "Lines": {
+            "21": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_FAXPhone()": {
+          "Lines": {
+            "22": 2
+          },
+          "Branches": []
+        },
+        "System.Int32 BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_WebDesignId()": {
+          "Lines": {
+            "23": 2
+          },
+          "Branches": []
+        },
+        "System.Boolean BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_IsEnabled()": {
+          "Lines": {
+            "24": 2
+          },
+          "Branches": []
+        },
+        "System.Boolean BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_IsLoyaltyEnabled()": {
+          "Lines": {
+            "25": 2
+          },
+          "Branches": []
+        },
+        "System.Boolean BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_IsStoredValueCardEnabled()": {
+          "Lines": {
+            "26": 2
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_TimeOffsetHours()": {
+          "Lines": {
+            "27": 2
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Int32> BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_TimeOffsetMinutes()": {
+          "Lines": {
+            "28": 2
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_Latitude()": {
+          "Lines": {
+            "29": 2
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_Longitude()": {
+          "Lines": {
+            "30": 2
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Double> BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_UserDistance()": {
+          "Lines": {
+            "31": 2
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<BSP.Middleware.Models.Enums.DistanceUnit> BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_DistanceUnit()": {
+          "Lines": {
+            "32": 2
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<BSP.Middleware.Models.MiddlewareModels.Response.SiteHoursDTO> BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_Hours()": {
+          "Lines": {
+            "36": 2
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO> BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_SpecialEvents()": {
+          "Lines": {
+            "40": 2
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.MiddlewareModels.Response.SiteSupportedOrderModes BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_SupportedOrderModes()": {
+          "Lines": {
+            "44": 2
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<System.String> BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_OrderTypesSupported()": {
+          "Lines": {
+            "45": 2
+          },
+          "Branches": []
+        },
+        "System.Boolean BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_IsWorking()": {
+          "Lines": {
+            "49": 2
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_OpenAt()": {
+          "Lines": {
+            "50": 2
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_DeliveryRange()": {
+          "Lines": {
+            "51": 2
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Boolean> BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_InDeliveryZone()": {
+          "Lines": {
+            "52": 2
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.Enums.SiteStatusUnified BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_SiteStatusUnified()": {
+          "Lines": {
+            "53": 2
+          },
+          "Branches": []
+        },
+        "System.Boolean BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_IsCateringRequiredInDelivery()": {
+          "Lines": {
+            "57": 2
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_CateringPickupMinOrderTotalAmount()": {
+          "Lines": {
+            "61": 2
+          },
+          "Branches": []
+        },
+        "System.Double BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::get_CateringDeliveryMinOrderTotalAmount()": {
+          "Lines": {
+            "65": 2
+          },
+          "Branches": []
+        },
+        "System.Boolean BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse::IsOrderTypeSupported(BSP.Middleware.Models.MiddlewareModels.Response.SiteSupportedOrderModes)": {
+          "Lines": {
+            "68": 0,
+            "69": 0,
+            "70": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\SiteResultDTO.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.SiteResultDTO": {
+        "BSP.Middleware.Models.MiddlewareModels.Response.SiteResponse BSP.Middleware.Models.MiddlewareModels.Response.SiteResultDTO::get_Site()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\MiddlewareModels\\Response\\SiteSpecialEventDTO.cs": {
+      "BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO": {
+        "System.Nullable`1<System.Int32> BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO::get_SpecialEventId()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO::get_SpecialEventStartDate()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO::get_Name()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO::get_OpeningTime()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO::get_ClosingTime()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Boolean> BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO::get_IsClosed()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO::get_SpecialEventEndDate()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Boolean> BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO::get_IsCompanyWide()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.MiddlewareModels.Response.SiteSpecialEventDTO::get_SpecialEventPurpose()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Models\\BSPModels\\Response\\BSPSiteResponse.cs": {
+      "BSP.Middleware.Models.BSPModels.Response.BSPSiteResponse": {
+        "BSP.Middleware.Models.BSPModels.Response.Site[] BSP.Middleware.Models.BSPModels.Response.BSPSiteResponse::get_sites()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 BSP.Middleware.Models.BSPModels.Response.BSPSiteResponse::get_totalResults()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Site": {
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_id()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_siteName()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_enterpriseUnitName()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.BSPModels.Response.Hour[] BSP.Middleware.Models.BSPModels.Response.Site::get_hours()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.BSPModels.Response.Contact BSP.Middleware.Models.BSPModels.Response.Site::get_contact()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_timeZone()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean BSP.Middleware.Models.BSPModels.Response.Site::get_locked()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_description()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_currency()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.BSPModels.Response.Address BSP.Middleware.Models.BSPModels.Response.Site::get_address()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.BSPModels.Response.Coordinates BSP.Middleware.Models.BSPModels.Response.Site::get_coordinates()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_status()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_parentEnterpriseUnitId()": {
+          "Lines": {
+            "26": 0
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.BSPModels.Response.Customattributeset[] BSP.Middleware.Models.BSPModels.Response.Site::get_customAttributeSets()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_referenceId()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BSP.Middleware.Models.BSPModels.Response.Site::get_createdOn()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BSP.Middleware.Models.BSPModels.Response.Site::get_lastModifiedOn()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime BSP.Middleware.Models.BSPModels.Response.Site::get_deactivatedOn()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Site::get_organizationName()": {
+          "Lines": {
+            "32": 0
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.BSPModels.Response.Enterprisesetting[] BSP.Middleware.Models.BSPModels.Response.Site::get_enterpriseSettings()": {
+          "Lines": {
+            "33": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 BSP.Middleware.Models.BSPModels.Response.Site::get_distance()": {
+          "Lines": {
+            "34": 0
+          },
+          "Branches": []
+        },
+        "System.Object BSP.Middleware.Models.BSPModels.Response.Site::get_isInDeliveryArea()": {
+          "Lines": {
+            "35": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Contact": {
+        "System.String BSP.Middleware.Models.BSPModels.Response.Contact::get_contactPerson()": {
+          "Lines": {
+            "40": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Contact::get_phoneNumber()": {
+          "Lines": {
+            "41": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Contact::get_phoneNumberCountryCode()": {
+          "Lines": {
+            "42": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Address": {
+        "System.String BSP.Middleware.Models.BSPModels.Response.Address::get_city()": {
+          "Lines": {
+            "47": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Address::get_country()": {
+          "Lines": {
+            "48": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Address::get_postalCode()": {
+          "Lines": {
+            "49": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Address::get_state()": {
+          "Lines": {
+            "50": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Address::get_street()": {
+          "Lines": {
+            "51": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Coordinates": {
+        "System.Single BSP.Middleware.Models.BSPModels.Response.Coordinates::get_latitude()": {
+          "Lines": {
+            "56": 0
+          },
+          "Branches": []
+        },
+        "System.Single BSP.Middleware.Models.BSPModels.Response.Coordinates::get_longitude()": {
+          "Lines": {
+            "57": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Hour": {
+        "BSP.Middleware.Models.BSPModels.Response.Open BSP.Middleware.Models.BSPModels.Response.Hour::get_open()": {
+          "Lines": {
+            "62": 0
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.BSPModels.Response.Close BSP.Middleware.Models.BSPModels.Response.Hour::get_close()": {
+          "Lines": {
+            "63": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Open": {
+        "System.String BSP.Middleware.Models.BSPModels.Response.Open::get_day()": {
+          "Lines": {
+            "68": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Open::get_time()": {
+          "Lines": {
+            "69": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Close": {
+        "System.String BSP.Middleware.Models.BSPModels.Response.Close::get_day()": {
+          "Lines": {
+            "74": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Close::get_time()": {
+          "Lines": {
+            "75": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Customattributeset": {
+        "BSP.Middleware.Models.BSPModels.Response.Attribute[] BSP.Middleware.Models.BSPModels.Response.Customattributeset::get_attributes()": {
+          "Lines": {
+            "80": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Customattributeset::get_typeName()": {
+          "Lines": {
+            "81": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Attribute": {
+        "System.String BSP.Middleware.Models.BSPModels.Response.Attribute::get_key()": {
+          "Lines": {
+            "86": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Attribute::get_value()": {
+          "Lines": {
+            "87": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Enterprisesetting": {
+        "BSP.Middleware.Models.BSPModels.Response.Configurationsetid BSP.Middleware.Models.BSPModels.Response.Enterprisesetting::get_configurationSetId()": {
+          "Lines": {
+            "92": 0
+          },
+          "Branches": []
+        },
+        "BSP.Middleware.Models.BSPModels.Response.Configurationsetting[] BSP.Middleware.Models.BSPModels.Response.Enterprisesetting::get_configurationSettings()": {
+          "Lines": {
+            "93": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Enterprisesetting::get_enterpriseUnitId()": {
+          "Lines": {
+            "94": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Configurationsetid": {
+        "System.String BSP.Middleware.Models.BSPModels.Response.Configurationsetid::get_name()": {
+          "Lines": {
+            "99": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Models.BSPModels.Response.Configurationsetting": {
+        "System.String BSP.Middleware.Models.BSPModels.Response.Configurationsetting::get_key()": {
+          "Lines": {
+            "104": 0
+          },
+          "Branches": []
+        },
+        "System.String BSP.Middleware.Models.BSPModels.Response.Configurationsetting::get_value()": {
+          "Lines": {
+            "105": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "BSP.Middleware.Services.dll": {
+    "C:\\Users\\mm185304\\Documents\\Work\\BSP\\github\\BSP.Middleware\\BSP.Middleware.Services\\Implementation\\SiteServiceImpl.cs": {
+      "BSP.Middleware.Services.SiteServiceImpl": {
+        "System.Void BSP.Middleware.Services.SiteServiceImpl::.ctor()": {
+          "Lines": {
+            "15": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      },
+      "BSP.Middleware.Services.SiteServiceImpl/<GetNearbySites>d__3": {
+        "System.Void BSP.Middleware.Services.SiteServiceImpl/<GetNearbySites>d__3::MoveNext()": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 14,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 301,
+              "EndOffset": 303,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 301,
+              "EndOffset": 309,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 14,
+              "EndOffset": 378,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
