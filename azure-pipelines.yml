@@ -20,7 +20,13 @@ steps:
 - task: NuGetCommand@2
   inputs:
     restoreSolution: '$(solution)'
-
+- task: SonarQubePrepare@4
+  inputs:
+    SonarQube: 'Sonar'
+    scannerMode: 'MSBuild'
+    projectKey: 'BSPMiddlewareTest'
+    projectName: 'BSPMiddlewareTest'
+    extraProperties: 'sonar.cs.vscoveragexml.reportPaths=**/*.coveragexml'
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
